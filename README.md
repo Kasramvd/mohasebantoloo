@@ -1,1 +1,1 @@
-A website written in django for an accounting company! 
+A simple website written in django! 
